@@ -4,3 +4,5 @@
 <li>It provides a clean and minimalistic interface that displays the current time in a digital format. </li>
 <li>The project is designed to be easily integrated into web pages or used as a standalone application.</li>
 </ul>
+
+# [Live Demo](https://digital-clock-js-project1.netlify.app)
